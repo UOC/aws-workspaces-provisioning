@@ -1,0 +1,10 @@
+{
+    "name": "custom-authorizer-jwt-validator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "UOC",
+    "license": "",
+    "dependencies": {
+        "jsonwebtoken": "^8.5.1"
+    }
+}
