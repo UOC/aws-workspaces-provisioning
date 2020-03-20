@@ -38,7 +38,7 @@ Exemple
         </a>
 
 
-En entrar a la plana, es localitzarà a la url l'idioma en curs, i s'amagaran els missatges en la resta d'idiomes.
+En entrar a la plana, es localitzarà a la url l'idioma en curs, i es mostraran els missatges en aquest idioma.
 
 ## Funcions Lambda 
 
